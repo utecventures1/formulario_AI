@@ -1,0 +1,24 @@
+{
+    "SCORING_CATEGORIES": {
+        "equipo": {
+            "peso": 0.60,
+            "descripcion_prompt": "Evalúa la experiencia, complementariedad y track record del equipo fundador basándote en su historial de LinkedIn y la información proporcionada."
+        },
+        "producto": {
+            "peso": 0.10,
+            "descripcion_prompt": "Evalúa la innovación, claridad y defensa de la propuesta de valor descrita."
+        },
+        "tesis_utec": {
+            "peso": 0.10,
+            "descripcion_prompt": "Evalúa qué tan alineado está este proyecto con la tesis de inversión de UTEC Ventures (startups tecnológicas, innovadoras, con potencial de alto impacto en Latam)."
+        },
+        "oportunidad": {
+            "peso": 0.15,
+            "descripcion_prompt": "Evalúa el tamaño del mercado, la competencia y el potencial realista de un exit basándote en la descripción del producto y el sector."
+        },
+        "validacion": {
+            "peso": 0.05,
+            "descripcion_prompt": "Evalúa la tracción actual (MRR, usuarios, pilotos, etc.) basándote en los logros mencionados."
+        }
+    }
+}

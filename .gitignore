@@ -1,0 +1,20 @@
+# Ignorar archivos del sistema
+.DS_Store
+*.log
+
+# --- Backend (Python) ---
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+# ¡MUY IMPORTANTE! No subir tus credenciales a un repo público.
+backend/google_credentials.json
+
+# --- Frontend (Node.js) ---
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+backend/.env
