@@ -1,0 +1,589 @@
+﻿Startup,Objetivos,Preguntas JD,Unnamed: 3,Observaciones Jd / Actualizaciones,Tareas Brenda Milagros Sota Huarcaya,Unit economics| sheet,Ronda,Valuation,Descripcion,Escalabilidad,Puntaje_escalabilidad,Equipo,Puntaje_equipo,Producto,Puntaje_producto,Exit,Puntaje_exit
+OpenMed,"12-18 meses: +1 M en ventas - 6500 usuarios
+Neurologia, Endocrinologia, Oncologia, Parkinson, Cardiología y Reumatología
+CAC: 3-6$
+40+ usuarios
+AOV (ave.order value): 77
+Rev: 378$
+
+cap table: 90% entre founders + 10% stock options (3 workers + advisors)","¿Por que te pagan a ti? Hacen solo la logística? (farmacias no grandes es su foco y pacientes crónicos es el cliente)
+¿Dónde está la ventaja competitiva? 
+¿Farmacias afilidas tienes? 2 farmacias afiliadas, +15k productos en el mercado.
+¿A quién le reduces costos? Pacientes.
+¿Qué valor le das al paciente? Conseguir su receta todos los meses al mismo precio en su casa
+¿Hace cuanto empezaron operando? 1 año -distribuidora para farmacias (b2b)-
+¿Cuál es el stack tech? Landing, portal admin (core - 30%, node js, next js) y portal partner. ¿Cómo calculan el tamaño del mercado? 
+Valor de mercado (62 Bn) - 10% es su comisión - Perú es 3% - enfermedades crónicas ¿cuál es el porcentaje?
+
+¿Qué buscan con sus alianzas estrategicas?
+¿Quién es responsable de captar y retener clientes/ usuarios? ¿Qué han probado? Captar doctores y darles comisiones para que tengan recomendaciones para recetas.",,"Es un rappi de medicamentos para farmacias no digitales (le cobran un fee) que vendan a pacientes crónicos. 
+
+Reto: asegurar el stock para que el paciente venga a comprarte.
+Preocupación de jd: competencia ¿qué pasa si mañana un gran judador entra al mercado, rappi med?
+
+Hay barreras bajas de entrada. La clave está en la integración.
+Recomendación Jose: Es mejor foco que cantidad, en especialización está la capacidad que no te compitan!
+
+Sobre usuarios y economics:
+Ingreso promedio es 30 prom soles por usuario. se van 6 soles por logistica.
+Al doctor le pagan 15-20-25 soles (una sola vez). Provincia es un extra que paga el usuario.
+5 meses de operaciones ","- Lista con clientes que nos deben pasar, elegir y hablar con 2-3, saber si aman el servicio, si han creado algo potente o no. 
+- Validar background del equipo, que han hecho antes, son buenos o no.
+- Validar mercado real",Unit economics| Espacio de aprendizaje,no han levantado,,,,,,,,,,
+Yavendio,"Revenue mensual: Ene 220$ Feb 1400$ Mar 3645$ Abr 7000$
+Conversión en funnel: Ene 25%
+mercado peru: $233 MM Mexico: $700MM brasil: $1BN
+Clientes: 17 pagos || 3 en producción vendiendo || 
+
+Ronda F&F: 129,500$ a 2M de valuation
+Runway: 17.5 meses
+Breakeven: Octubre
+Perdida: 7k-10k dolares now.
+objetivo de ronda: robustecer el producto, IA más humano.
+
+cao table ahorita: 55% david 45% sebas / yashac 5% / diego 3% / terry cruz 3,5%","¿Cómo es tu modelo de generación de ingreso? Planes x mes + Implementación
+¿Cómo llenas tu funnel? Referidos y e-mail marketing
+¿Qué es tu producto? Bot que aprende del negocio y te permite tomar decisiones.
+Tech: Foundations se conectan a diversas APIs (se actualiza constantemente) y Propias son arquitecturas del vendedor (splitter) e implementadores (modula el aprendizaje de su bot)
+¿Como le compites a un posible wsp ayudante virtual o shopify? No solo es ser un vendedor virtual sino ser un suite de ventas para cada e-commerce. 
+¿Quién es tu cliente objetivo? E-commerce medianos, 50k dolares 1 millon de dólares en ventas. 
+¿Que le resuelves? Resolución de mensajes de clientes y disminución operativa de gente de ops de ventas.
+¿Porque ustedes son el equipo ideal?
+¿Te dan los UE con los usos fijos y variables? es profitable cada conversación que tenemos
+Cuanto te demorarás en llegar a mil clientes? 2 años para llegar a ese número.",,"es un mercado no nuevo, muchas empresas atacan el mismo cliente deben tener un gran equipo.
+advisors sin contrato legal. se juntan con ellos 1 vez por mes.
+
+Deben saber crear su defensibilidad. Deben trabajarlo. Seguir entendiendo bien a usuarios, orientados al cliente, no desarrollar por desarrollar.
+
+Venderse como Mobile E-Commerce. Preocupación de Jose: Diferenciación y ser defensible
+
+Pregunta de David:
+¿¿Vale la pena explorar un modelo anual o semestral?? ","- Validar con 1-2 clientes para ver el servicio, lo aman?
+- Probar la solución, ver el UX/UI.
+- Que alguien valide la tecnología: profe de IA el de MIT o Syntax. Tech Meeting
+- Mapear la competencia, ver si lo de ellos es superlativamente mejor",Unit economics| Espacio de aprendizaje,129500,2000000.0,,,,,,,,,
+Simplicar,"cap table: igna y rodrigo: 30% c/u y sebas y manuel: 20% c/u
+
+revenue mensual?
+Perdida??
+Objetivo:
+Clientes??","¿Qué servicios tienen? Depende de proveedores, pero en general, servicios vehiculares.
+¿Cómo aseguras que la experiencia end-to-end del servicio sea bastante buena?
+¿Cuál es tu estrategia de onboard de proveedores (esto sería clave si tienen puntajes de servicios, etc)? Es a dedo, conocen a la persona, visitan los talleres, antecedentes, etc. Hacer insurance dentro del marketplace. 
+¿Cómo evitan que su onboard se vuelva un cuello de botella? 
+¿Por que son el equipo correcto para crear este negocio? Rodrigo: clientes, respuesta a talleres, adquisición, venta, finanzas, admin y contabilidad. Igna: Growth y Funnel. Manuel: Tech Platform. Sebas: UX y Producto
+Siguiente mercado?? Perú es interesante por que es fraccionado: Mexico es parecido a Perú, mucha similitud, es más fraccionado
+
+Cliente objetivo: 25-32 años, sin hijos, trabaja, mujer, a partir de 3 años de antiguedad.
+¿Que probaron estás ultimas semanas? Foco de exerimento de dashboard a talleres. Ver si hay valor, si los baypassean. Podemos solucionarles problemas a los talleres?",,"marketplace de servicios vehiculares
+comisión por cada transacción
+
+Como previenen que suceda dos casos? Consecionaria overprice o servicio de taller común que es tengo que regresar en unas semanas. 
+
+Reto: Calidad de servicio de los servicios que brindan. Ser un marketplace o ser un proveedor que vende el servicio?
+
+Mx: hay más leasing
+Recomendacion: Darle vueltas a la experiencia el cliente. (clave) ¿Cómo la experiencia de cliente es muy buena? Insurance es una buena salida pero no se si les permitirá escalar. Experimentaria mucho con eso para que el onboarding sea el cuello de botella.
+
+Puede ser insurtech y hacer plata con el seguro.","- validar clientes, hablar con 2-3 clientes. 
+- jugar con la aplicación de simpliCAR (probar) / que nos creen un usuario de prueba",,40000,1000000.0,Pre-Money Safes,,,Equipo complementario,,"# de clientes:  36 clientes nuevos en el DD 
+Clientes feedback:  Los negocios creen que es util para incrementar sus ingresos, pero aun no son significativos en comparacion al total. Del lado del usuario resuelve el tiempo para buscar un servicio mecanico recurrente
+Recompra :  2-3 veces por año
+Diferenciacion:  Hay potencial para trabajar en una plataforma con más tecnología y crear más ingresos a los negocios
+Con quien compite? Para adquirir clientes con empresas de servicios de autos digitalizadas.
+Defensibilidad? Es replicable, deben trabajar más en la retención y adquisición de clientes",,,
+ELSA,"MRR: $37K
+ticket por empresa: 5500 - 5600$
+Clientes con aula virtual: 8 clientes
+Clientes sin aula virtual: 5 clientes
+Churn (no tenemos)
+
+objetivo: 148 clientes a final de año - 700k aprox en ventas - PE 90% y fuera 10% 
+Cap table: 55% Mar 45% Ivonne 10% ESOP (Recibimos 100k en deuda de impacto -esto es revenue sharing- y 150k SAFES CAP + Discount 15%)
+
+Burn rate: 5k-10k$
+Runway: 6 meses","¿Como es el product? Plataforma integral para la prevención del acoso labora. Tiene 3 lineas: diagnosticos, aula virtual para recursos de implementacion de planes en base a mediciones (8 empresas aqui, upselling), canal de denuncias (elsa en diagnostico te da data y con denuncias podemos llegar a casos con nombres y apellido)
+¿Qué barreras tienen fuera de peru? Necesitamos capital para aguantar primeros meses de ingreso en mercado siguiendo el playbook de expansión (aliados-network). Costo comercial. 
+¿Cuéntame del equipo? Se fueron 3 personas del equipo (comu-business-operaciones), no se adaptaron del cambio de consultora a startup. Hemos contratado a una CRO (Marta Ortega). CFO hemos tenido as a service. Las dos founders están a tiempo completo.
+¿Qué tan grande va a ser ELSA?
+¿Quieren tener un exit? Si
+¿Cuando puede ser el exit en 5 años? 27millones en 4-5 años
+¿Cuéntenme del stack de ELSA? Python y react en front y mongodb en base de datos. BI usamos metabase, internamente sacamos app puras en nextjs. Principalmente es python. 
+¿Quién es tu equipo tech? 4 tech, todos UTEC (2 puros tech, 1 producto+tech. e ivonne)
+¿Como te fue levantando plata? No era atractivo en 2023 porque no era fintech o edtech, remamos contra todo. Este año volvemos a habalr con investors y fondos VC no solo de impacto. ",,"B2B suscripcion anual. (precio varía dependiendo del tamaño de empresa y por funcionalidades de la plataforma
+Recompra: viendo eso -recién comenzando esta etapa-
+No hay competencia ahora. Podría aparecer en la parte de cursos. 
+Tienen clientes en Republica Dominicana
+
+Algunas peruanas como sodexo nos han abierto en otros paises porque tienen subsidiarias.  
+Cliente: Empresas con areas de HR con foco o iniciativas de diversidad. Mercado: 5mil millones de dolares solo en LatAm en sector privado. Es repiclable en europa y us
+
+Las veo bien, mas enfocadas, más encamindas al modelo startup. No van a velocidad startup, pero veo que pueden llegar. Necesitan capital. 
+
+Exit de 27 millones es chico, para un VC es enano. ¿Cómo logras hacer un exit de 200 millones? ¿Qué implica eso? Crecer en que? Geograficamente, en productos (entrar en fintech? insurtech? como podemos triplicar el valor de la compañía? ",Pasarnos la info del modelo de proyección para su exit: https://drive.google.com/drive/folders/1UUlJuzmjG9qiOIz4ZQVCORtMmAwu_k6e?usp=drive_link,,(Preguntar cuanto a que valuation),,,,,"Potencial  equipo tech: Inhouse
+CTO? Si
+Cap Table balanceado: 50% cada una
+Time commitment: Ambas full time
+Complementariedad: Legal + Tech
+Traccion en KPIs:  150 Organizaciones, 110,000 usuarios. 9 Organizaciones nuevas durante el DD (marzo 5, abril 4)
+Open to advise: Agendaron Office hours
+Participación / Give first? Activa más de Marlene",Muy Bueno,,,,
+Doctoc,"clientes: 48 clientes como consultorios (pagantes) 9 son mensuales y 41 anuales
+churn: regularmente planes mensuales
+ 
+perfil etario: 35-50 años (35 para abajo no es independiente)
+
+captable: 38% 27% 18% 12%","¿Quién es tu cliente? doctores que tienen consultorios 
+¿Que funcionalidades tienen? Agenda (calendario para agendar) + recordatorios (por wsp) + historia clínica + finanzas (modulo contable). Generamos documentos de recetas al paciente.
+¿Cuál es el nivel de interacción? 500 pacientes a mas por doctores (interacción de Lunes a Sabado)
+¿Por que creen que los clientes compran la plataforma? Medicos comerciales (driver: manejar mejor su negocio - citas y pagos- y los más academicos (driver: registro y busqueda de info de su pacientes)
+¿Con quién compiten a nivel internacional? Diferencia, facilidad de uso y adopción
+¿Por qué son el equipo correcto para crear doctoc?
+¿Stack tech de la solución?  next js y react en la web / base de datos: (no relacional) Google Cloud -mondoDB/MayaDB- / mensajeria por wsp
+Mercado: 10k medicos privados (35 soles - 139 soles x mes - promedio anual: 1704 soles )",,"Planes de suscripcion mensual/anual
+idea: transaccional por pago de cita
+
+Debe haber para cada perfil de clientes un numero de interaccion definido.
+perdidas por ausentismo: 80k-100k por año
+
+Deben seguir hablando con el cliente para entender que lo va a enamorar de por vida. Que otras cosas pueden hacer que el médico no puede vivir sin la solución
+
+En parte del proceso, cuando el medico decide volverse independiente, crear algo para ese momento y engancharlos, ser fintech, logistica de medicamentos. (pensar por donde ser enormes)",- prueben bien el producto de doctoc a ver si el UX es realmento bueno como dicen,,no han levantado,,,,,,,,,,
+Phronesys," 
+Ganaron un fondo de proinnovate de climatech, y otro concurso de climatech  
+U mal accuracy(del 30%-35%) gastas 1000 a 1500 por hectárea","¿Qué resuelve? Resuelve la precisión de la estimación del agro. El agro gasta mucho estimando más de lo que realmente genera en producción.
+¿Por qué es importante? La variable de estimación es muy relevante en el agro
+¿Qué tan efectivo es? Su error de pronóstico bajó de 30% al 5% - 10%
+¿Qué es el producto? Realizan proyecciones y simulación a través de muestreos
+¿Cómo funcionaba antes?2 - 3 Personas en campo supervisan y registran datos, los cuales sirven para estimar y simular.
+¿Cómo planean que funcione? Quiere hacer un saas(quieren contratar equipo tech externo) para, a través de algoritmos, que con un aplicativo en campo, automatice el proceso de cómo funcionaba 
+¿Por qué es mejor al resto? Es que otros modelos no tienen sentido del negocio, lo trabajan como números en vez de seres vivos. La mayoria de empresas se enfocan en tomar la información, en vez de estimar que es lo realmente relevante Ventaja competitiva: Phronesys Modela fenómenos biológicos que son muy técnicos",,"Ahora quieren pasar a un modelo donde puedan pagar con fees por exito, dependiendo a la cercania de accuracy. Quiere migrar a ese modelo","Especializacion lo recomienda Jose, empezar con un tipo de fruta
+y que exploren internacionalizarse con experimentos, pilotos cortos para validar",,no han levantado,,,"No tiene soporte tech del nuevo modelo
+Carece de especialización de fruta para experimentar pilotos e internacionalizarse
+Tiene potencial
+",Dificultad regular,"No tienen equipo tech ni CTO para desarrollar el modelo que plantean, no dieron updates de su búsqueda para ejecutar.
+Christian Garcia: Demand & Supply Planner, Desarrollo herramienta analítica
+Manzur Fegale: Aporta contactos, Background dirigiendo compañías tradicionales",Regular,,,,
+Hashi,"Estan levantando 750k a valuation 5 M
+
+Empresa startup: LTV 6K$ anuales
+Mediana startup: LTV  20k$
+enterprises: LTV 60K$
+
+margen content: 72%
+margen tech integration: 94%
+70% de recompra","¿Quiero entender bien el producto, que le das al usuario? El curso lo diseña un content spec de Hashi, ellos ayudan a guionarlos y graban el contenido y crean whitelabels y los integran creando un academy en empresas. 
+¿Cómo es el proceso de creación de contenido? Call de discovery (entender que quieren crear), se entrega un documento plantilla con la info especifico para lograr su objetivo de convertir, 
+¿Cómo son escalables? Ahora es teniendo margenes altos así compaginan el gasto de creadores de contenido.
+
+¿Cuánto más contenido educativo la empresa puede pedirte? Buscamos use cases que necesiten contenido todo el tiempo. 70% de clientes nos ha vuelto comprar.
+¿Cuál es tus metricas mas importantes de Hashi y que meta tienes este mes? Empezar a maximizar los calls organicos para integrar Hashi, 3 cierres de cliente (Uala y 2 más)
+¿Metrica del negocio? Tiempo de consumo de los contenidos / otras metricas MAUs y DAUs de ciertos clientes. / Para empresas: cuantos clientes son adquiridos por Hashi",,"Campaña de posicionamiento de marca asociada a educación para potenciar el entendimiento de productos de empresas. 
+
+Modelo: fee mensual. (independientemente nivel de uso) + fee unico por contenido
+25 días nos demoramos en crear el contenido. Menos de 15 días nos toma la integracion del aspecto tecnico a las empresas.
+
++12 PAÍSES
+Estan constituyendose en Perú
+Compites con los gastos de marketing, con influencers, etc. ",- Super importante que prueben todas las plataformas para ver que tan buenos son los productos,,(Preguntar cuanto a que valuation),,,,,,,,,,
+Konstruedu,"Platanus Ventures invirtió USD 100K. Están pensando levantar a setiembre USD 1MM para seguir creando más cursos y aristas. Impulsar B2B con foco en México.
+
+Estudiantes universitarios
+Profesionales
+64 cursos. Un curso les cuesta crear 800USD
+El año pasado cerraron con USD130 K, buscan triplicar sus ingresos
+Un alumno termina 8 cursos al año le genera en promedio 163 dólares y les cuesta  adquirirlo 93 dólares","¿Quiero entender bien el producto, que le das al usuario? Quieren enseñar transformación digital para la construcción. Tipo de conocimientos como IA. 64 CURSOS. El curso más vendido modelado BIN.
+¿La persona qué paga? Suscripción (trimestral - semestral y anual) el 80% adquiere el plan anual. Al año en promedio llevan 8 cursos al año. El estudiante lo lleva porque quiere ser competitivo en el ambito laboral. Dos perfiles 
+¿Por que crearon la startup?  Porque quería buscar rentabilidad mediante metodologías nuevas para convertir en startup su negocio inicial.
+¿Cómo es el stack? Python, PHP, MySQL, AmazonWS
+¿Qué tamaño van a ser en 5 años? Quieren formar a 1 millón de profesionales. No hay cálculos. Quieren ser el #! para capacitar
+¿Por qué te eligen? Hay una oportunidad en la transición del desarrollo tecnológico que da la necesidad de capacitarse, Su metodología de educación, tienen tutoría constante. Enseña cosas nuevas y les hace el seguimiento.
+¿Quiénes diseñan el curso? Inhouse, ellos lideran y con ingenieros civiles, docentes. Se encargan de todo el proceso. ¿Quiénes están en el captable? Dhevis, Angel y Platanus Ventures.                                                                                                                                        Cerraron el año año pasado 130 K. Actualmente van vendiendo USD35K. Crecimiento 2X. Comparado a noviembre 1.75.   Objetivo del mes: ser una máquina de producción de cursos. Lanzar 10 nuevos cursos al mes en vez de 2-4.     Conversan con sus clientes para evaluar la necesidad. ¿Cuántos cursos se completaron por los estudiantes? ¿Delos 64 cursos, cuántos tuvieron estudiantes? Todos tienen estudiantes.  ¿Por qué crees que no le fue bien a Arcux? Arquitectura es un mercado muy chiquito, Hay menos arquitectos que ingenieros.  Los cursos eran tradicionales. ¿Cuánto te genera de ingreso un estudiante? 163 dólares. Le cuesta traer un estudiante : 93 dólares.                                                               ",,"  A Jose le preocupa el tamaño de mercado. Su mercado no es gigante. Puede que sea 1/5 del tamaño del mercado como Platzi. Denle una pensada a ese reto. Cómo hacemos que Konstruedo sea un negocio de 200 Millones de dólares. Cree que el equipo es bueno y producto interesante. El BIN es bueno, pero no está seguro que sea un negocio de 200MM   de dólares.",- Super importante que prueben todas las plataformas para ver que tan buenos son los productos,,(Preguntar cuanto a que valuation),,,,,"Potencial  equipo tech: in house (1 backend y 1 frontend)
+CTO? Angel Jara 
+Cap Table balanceado:  Dheivis Jara (39%), Angel Jara (39%) Platanus Ventures (10%)
+Time commitment: Full time
+Complementariedad: Industria + Tech
+Traccion en KPIs:  Revenue $14,786 durante, 127 clientes nuevos en el DD 
+Open to advise: Preguntar a Kev office hours
+Participación / Give first? Activo Dheivis",Regular,"Hace lo que dicen: Sí, solo que no es un producto diferencial
+# de clientes:  127 clientes nuevos en el DD 
+UX: Normal, simple
+Clientes feedback:  Se ven puntuaciones de alumnos entre 3 a 5 estrellas
+Recompra :  Suscripción (trimestral - semestral y anual) el 80% adquiere el plan anual. Al año en promedio llevan 8 cursos al año.
+Diferenciacion:  No es visible frente otras plataformas de educación
+Con quien compite? Cursos de universidades especializadas en construcción, plataformas de educación Online
+Mejora significativa de lo que existe: No se observa una mejora extraordinaria
+Defensibilidad? Es replicable, no se ve un diferencial si comparamos con plataformas como Coderhouse",Bajo,,
+Viajamas,"GMV $2.5M (90% B2B 10% B2C)
+23% TAKE RATE
+
+35 turoperadores conectados y waitlist 20 aprox
+circuitos x operador: 200 circuitos (el mayor operador)","¿Que es el producto especificamente? ¿Como funciona en B2B este negocio? Software de planificacion, uníamos productos y se lo dabamos a un cliente final.  Proveedor carga sus productos a un SMS, suben todo y se agrega anuestro marketplace. Quitamos al mayorista ya que no añade valor.  
+¿Cuánto % del mercado es para circuitos del turismo? 30% del mercado total, viene creciendo hacia grandes viajes.
+¿Quién define la tarifa? el turoperador define la tarifa. 
+Competencia: directa - tourradar | a traves de mayoristas tradicionales es como lo resuelven
+¿Cómo lograste comerte al mayorista? lo vendiamos como canal ingreso adicional al tradicional. 
+Solo estamos en Perú
+¿Las empresas grandes de Perú, Limatours, condortravel que hacen? Ofrecen circuitos de otros continentes para Perú.
+¿Producto tech stack? web + servidor + CMS (Backedn microservicios con Amazon, CMS es nextjss + web nextjss + react)",,"industria interesante (nicho interesante)
+
+reto:
+1. cuando digan marketplace los inversionistas dejarán de escuchar. (denle una vuelta y no enfaticen en marketplace o porque no es un tipico marketplace)
+2. muy concentrados en Perú, como escalar fuera de Perú. Como pueden vender esa perspectiva de transformar la industria sin mayoristas. 
+
+Son mas un mayorista digital. ",Super importante que prueben todas las plataformas para ver que tan buenos son los productos,,levanata 400k (30% cerrado),5000000.0,,,,,,,,,
+Sin Envolturas,"2023: $400k (PIE DE EVENTOS: Matrimonios + Baby Showers)
+
+7% por evento. 
+Están en breakeven (desde 2022)
+
+Cap Table: 4 fundadoras
+Claudia mayor participación
+","¿Que porcentajes terminan siendo regalos y cash? En 2023, procesamos 4,5 M de dolares.
+¿Envisionan un exit? Zola es un buen potencial de exit u cadenas de retail grande. 
+Ninguna hace código, tenemos a Caro que ve producto y equipo de desarrollo. Sacaremos en un par de meses la nueva versión de la plataforma con una arquitectura pensando en escalabilidad.  Trabajan con una fábrica JANAC de tech. 
+¿Programa de Endeavor, cual fue el principal aprendizaje? Nada
+¿Han pitcheado frente a un VC? Si hemos pitcheado, frente a AVP (Greg).
+¿Cómo consiguen a sus clientes? Es un negocio de bien referidos, invertimos en influencers y mkt digital (les damos una comisión por recomendaciones). Un anfitirion nos puede dar 400 leads potenciales clientes. 
+Recompra tienen? 80% ha utilizado sin envolturas de matris a baby showers. En total, de los matris se convierten a baby shower la mayoría. De invitados, se convierten x% (descubrir cuanto?)
+Promedio de recoleccion: 10k dolares y se quedan con un 7% (140-200 dolares por cliente)
+¿Como hacemos x5 el revenue en 5 años? 
+Competencia: Peru - novios a bordo - Mexico - Palacio de Hierro y Liverpool-
+
+Novios a bordo / The Gift List (dead) / D' Parte
+Zola",,"Startup Peru con Endeavor - 50k
+
+Volvernos el 360° centralizando todo lo más importante del proceso de celebraciones. 
+
+Contratar un full stack en el equipo. 
+MInimizar costo de pasarela de pago. (Payu es malazo)
+
+10 personas en el equipo (4 founders)
+Margen EBITDA 30% en 2022 y 2023 es 20%
+Tienen que llegar a 250 millones de dolares valor empresa. 
+
+Necesitan 100k eventos al año con un precio 2,000 dólares por evento.
+Ahora tienen: 6,500 solo en Perú
+
+Constituidas en MX y harán una prueba piloto allá. Parte del valor de la empresa es escalar, deben abrir mexico. ",Super importante que prueben todas las plataformas para ver que tan buenos son los productos,,no han levantado,,,"Buen posicionamiento de la marca. Tienen potencial
+Dificultad en escalamiento por cómo se desarrolla un matrimonio (una sola vez en al vida)
+Necesitan tech inhouse para dar ese paso. 
+",Dificultad regular,"Capacidad de ejecución. 6 años trabajando en Sin envolturas
+Claudia Dawson (30%): Operaciones. Emprendimiento tradicional Wonderlust Lencería
+Karen Dawson (15%): Marketing, Innovación Schraff
+Carolina Arbulú (27%): Finanzas, Desarrollo de productos 
+Paloma Derteano(27%): Comunidad, Marca
+No tienen tech inhouse
+",Regular,"80% ha utilizado sin envolturas de matris a baby showers. En total, de los matris se convierten a baby shower la mayoría. 
+
+Comentarios clientes (3 entrevistas )
+“Casi todos los matrimonios que asisto lo hicieron a través de Sin Envolturas.”
+“Es super facil. me encanta que puedo personalizarlo”
+“Fijo lo usaré para mi baby shower y otros cumpleaños o eventos grandes!”
+Más o menos  la mitad de los invitados usaron la plataforma para dar sus obsequios. Algunos les piden directamente la cuenta para evitar el fee.
+Mejor que la competencia ""Novios a Bordo"" y ""D´parte""",Producto muy bueno,"Ellas mencionaron a Zola como buen potencial de exit u cadenas de retail grande. 
+Yo creo que podría ser banca; porque los productos financieros como créditos hipotecarios, seguros de vida, ahorros para universidades de los hijos, etc. se ven en bancos como BBVA, BCP, Interbank. Creo que podría ser un enlace interesante, si se expanden más a baby shower o eventos importantes en la vida de los hijos. Para hacer una secuencia al matrimonio(que es solo una vez)
+",Posible
+Tu Cambio,"Comisión: 2-5% MRR: 8500$ 
+GMV Mes: $130k
+
+Captable: luis 42% carla 58%
+safe: 5% con inversionista angesl
+cap: 1 millon
+
+constituidos en CL y PE
+
+levantando 250k a 2,5M de valuation
+CAC: 15$ por cliente","¿Es automatizado el cambio de moneda a crypto? Si en chile estamos mas avanzados, en Perú estamos en ese proceso. 
+¿Usan stablecoins para el intercambio? 80% stablecoins y 20% otras monedas. La idea es convertir la moneda, volumen que llega es volymen que sale. 
+¿Cómo le compites a las billeteras - Uala, Bitso, etc ? Tiempos de procesamiento, billeteras es 3-5 dias nosotros somos en minutos. 
+¿Cómo te diferencias en el mediano plazo? No dependemos de un camino, nos basamos en tech y tener evaluados más caminos. ¿Por que genera mejores tiempos y mejores tasas?
+Cuentenme de ustedes! que hicieron antes? Luis tiene background mas financiero y Carla mas de innovación y tech robotica.
+Han levantado capital antes? SUP Chile y Perú, angel 50k, 
+Como ven la compañía en 5 años? La vemos con +1 millon de clientes, 200 rutas de reenvio. Buscamos ser el sustituto de una mesa de dinero tradicional. 
+Exit? Western Union o un Venture de VCs. 
+¿Que les falta el MVP de US para lanzar? Compliance legal. Cuando los tienes listos? 3-6 meses lo tendríamos listo para operar en US.
+¿Cómo calcularon su valorización? entregar máximos 15% por 350k",,"canal de adquisición: ads, remarketing, foros de migrantes.
+
+transferencia promedio: 60$ (6 países)
+LTV: 6 meses
+CAC Payback: menos de 1 mes 
+
+Posibilidad de integrarnos con banesco. son webapp. 80% en mobile.
+
+4 fulltime (soft, ops, compliance, mkt) + 2 founders.
+
+Diferenciación: tech es un camino y experiencia de usuario otra. ","validen la tecnologia de Tu Cambio, pueden pedirle a Arturo Deza que tengo una reu con los chicos o alguien de automatizacion RPA",,(Preguntar cuanto a que valuation),,,,,,,,,,
+Qolores,"Venrta promedio:  USD 50M-USD 100 M 
+
+Captable: Isemar Cruz Biotecnóloga % Jaqueline Cruz, Industrial %
+
+
+levantando  2.3M a  M de valuation
+","""¿Qué es Qolores ahora? Bipigmentos innnovadores que reemplace los tintes para textiles, alimentos y cosméticos. Cuentan con 8 colores, no usan químicos tóxios ni transgénicos que puede afectar la compra en la industria alimentaria. Sostenibilidad: Busca reducir el consumo de textiles contaminantes que afectan y contaminan  de agua. 
+¿Qué avances han tenido? Pruebas en textil, principalmente, Alpaca con el grupo Michell.  NDA Con  grupo Richemont.¿Cómo generan los biopigmentos? Aislan los microorganismos del medio ambiente y observa cuales producen color, revisan el proceso con el que puede generar este color. La patente lo observan por cada color: la patente va para cada producción del color, es patente internacional ya rterminado ¿Quién cobra eso? La ONPI  lo hace gratis. ¿Cuándo estimas que se presente la patente? En 3 meses ¿Cuál es el nombre de la doctora con quien lo ves?Marta Eleno Carrasco, de la UNAM de MÉXICO ¿Qué colores tienes? Azul, rojo, amarillo. ¿Ya se puede replicar? Sí, incluso el azul ha sido uno de los más replicados para productos como jean.                                                                                                  ¿En qué consistió el programa de la ONPI? Fueron calificados por la innovación, les contactó y ofrece ayuda gratuita en legal. ¿Estuvo en el programa GHM? Están revisando al estrategia para el mercado piloto? 
+¿Ya la estandarizaste, qué capacidades de producción tienes ? Pueden producir en su laboratorio entre 4-5 litros. Lo ideal es migrarlo a un biorreactor que ya están en pruebas. Producción en batches por color y se limpia entre colores. Una vez que ya tienen los microorganismos, ya no necesitan aislar, solo los reproducin. Producción de 5 a 7 días de 20 litros en el bioreactor
+¿Con qué abogado están trabajando? Con uno local, NDA con estudio Muñiz.
+¿Der qué va el piloto con Michell? El piloto con Michell consiste en que les dan acceso a su fábrica y prueban los pigmentos en máquinas que procesan el teñido, Para validar la tecnología en un entorno productivo. 
+Cuentenme de  la empresa, cómo se distribuyen en Qolores, y LEQARA? son dos empresas independientes. Son 3 personas en qolores. Jaqueline ya no le dedica tiempo a Leqara. Le dedican full time a qolores
+Buscan levantar inversion ? sí, USD 2,3M para cumplir la demanda de 10 clientes top del mercado extranjero. Han tenido reunión con Richmond.  Quieren hacer un plan piloto pagado, para retomar el contacto con las empresas interesadas. Inversión en máquinas (70%) y equipo el resto
+Con quien compites? PILI.BIO, Ellos hicieron serie A. Huue hace solo tinte azul. Microma que ellos se enfocan solo en alimentos. Todos hacen modificación genética. usan la Ecoli. Es un proceso muy costos y es poco escalable.  Si se quieren enfocar en alimentos, no es tan aceptado
+El color qué es? Son como secreciones de los microorganismos 
+¿Exportaciones cómo es? No hay problema en la exportación del lado exportador. Del lado importador se debe hacer regulaciones 
+¿Cómo validan que no sean GMO? No hay certificados para biopigmentos que conozcan al momento. pero van  a averiguarlo. ¿Esperas vender la compañía EXIT? Quieren seguir siendo parte de la startup al menos los primeros 3-5 años. Están abiertos a eso.                                           ",,"canal de adquisición: Los clientes se le acercaron o están interesados Burberry, Apple., etc  Tienen acceso de conexiones por el programa que pasaron. Los clientes hacen una producción cápsula como compra regular.: 20-50 prendas.
+
+Venden a USD 55 mínimo dependiendo de color por kg.
+Costo de producción por kg(polvo, procesan el líquido) : USD20 por kg de pigmento puro.
+
+Producción de 5kg cada 5-7 días. Quieren mezclarlo con copolímeros para mejorar las propiedades. 25kg por semana con un nuevo biorreactor más grande.
+ fulltime 2 founders y una científica trabaja con ellos que es biotecnóloga.
+
+Diferenciación:  El factor sostenible del producto. Los clientes grandes pueden pedir toneladas, cuántos biorreactores se necesitan para hacer una tonelada? Un tanque de 4,000 Litros necesitan. Puede costar USD 1M para vender 1Tn que genera 100K de ingresos.                                                                                                                                     Pruebas de 20 L - Pruebas de 100 L para escalar a cualquier cantidad. El tanque de 100 L cuesta USD 10K porque será de plásticos más componentes aprox USD 12 K.  La prueba demora de  4 a  6 meses",,,no han levantado,,,"No hay patentes, está en proceso de redacción el color azul
+Para producir 1Tn de biopigmento, necesitan un bioreactor de 4,000 Litros que cuesta  USD 1M para vender 1Tn que genera 100K de ingresos. (Respuesta en Reunión 1:1 con Jose)
+",Dificultad alta,"Potencial  equipo biotech
+CTO? Isemar es biotecnóloga
+Cap Table: Balanceado: Jaqueline 50% Isemar 50%
+Time commitment: Michelle full time + Preguntar a Kev
+Complementariedad: Jacqueline Cruz: Investigación, Emprendimiento LeQara. Isemar Cruz: Desarrollo de productos innovadores, Experiencia en Moda y Textil, Emprendimiento LeQara
+Top Advisors:  revisar
+Traccion en KPIs: cerraron piloto con Michelle & Chia, empresa textil especializada en alpaca
+Open to advise: 8 horas de Office hours
+Open to pivot? Sí para atender nuevas industrias como cosmética
+Participación / Give first? Activa más Jacqueline                                                                                                                                                                                                                                                                                                           
+
+Aún tienen su anterior compañía LeQara en sus redes como LinkedIn y operando; por lo que no hay un foco full time en Qolores.
+Como equipo han ganado concursos de investigación e innovación con LeQara como100K de ancho  Expedida por ITBA, con el apoyo de MIT Sloan Latin America Office · nov. 2019; Premio ISC3 y Fundación Elsevier al Espíritu Emprendedor en Química Sostenible",Bueno,"Hace lo que dicen: Producto testeado, necesita inversión para  producir más litros para hacer un test de mayor escala.
+# de clientes: 3 contactos con empresas interesadas. 1 piloto cerrado. Han avanzado en una industria complicada
+UX: No aplica
+Clientes feedback:  No aplica
+Recompra : No aplica
+Diferenciacion: Factor sostenible
+Con quien compite? Con fabricantes de tintes quìmicos. Hay productos similares, pero ellos tienen 6 biopigmentos testeados a pequeña escala
+Mejora significativa de lo que existe: Sí, precio competitivo, producto biodegradable y ecoamigable
+Defensibilidad? Es innovador, falta patentar, están en proceso
+
+
+Para producir 1Tn de biopigmento, necesitan un bioreactor de 4,000 Litros que cuesta  USD 1M para vender 1Tn que genera 100K de ingresos. (Respuesta en Reunión 1:1 con Jose)
+",bueno,,
+Eolic Wall,"Pilotos acuerdos cerrados:  SELECSA, sumar esta tecnología a su portafolio. Inmobiliaria Urbana Peru. PRESENCIA EN COLOMBIA, PERU MEXICO, colocar dentro de su desarrollo inmobiliario. Textil de Valle  por sostenibilidad en sus plantas industriales y campos 
+
+
+Captable: 
+
+levantaron USD 200K de angel investor y grants de distintos programas: Techstars, KOICA, etc
+","""¿Qué es Eolic Wall?  Tecnología eólica es un nuevo sistema capaces de alcanzar la energía de molinos gigantezcos en una fracción de tamaño. Incrementa la eficiencia.
+¿Qué avances han tenido? Trabajaron con Oak Ridge para probar estas celdas eólicas.     Ya tienen 6 patentes protegidas, una ya realizada otras en proceso  (patente de invención).     **Jose pidio los numeros de las patentes.     Third derivative programa aceptado ultimo y el año pasado en techstars entre abril y junio. Se incorporaron en EEUU, Delaware                                               
+¿Cuanto genera una celda? 1kw  ¿Cuánto es el costo por kW en residecial? 16 centavos de dólar. En el LCOT que compara con otras tecnologías
+¿Cuándo crees que va a llegar al mercado? Hacia el Q1 2025 para terminar prototipos y pilotajes. Q4 2025 pilotajes comerciales. 
+¿Qué tal en KOICA y su viaje a Coreo? Todo pinta muy bien por el financiamiento, pero por su familia no aceptan a los niños en el colegio, los que aceptan son muy caros. Tuvieron que no aceptar la propuesta. 
+¿Cuánto necesitan de capital? Financiamiento del development hasta llegar al prototipo final y entrar recién a pilotaje. 
+Han levantado capital ? Angel investment USD 110K y cerrando USD 90K con SAFE,además de Techstars. los investment saleron por el pitch en un evento local de Energía
+Cómo se ven a ué mercado opinan? Mercado extranjero 
+Pilotaje cerrados, quiénes? SELECSA, sumar esta tecnología a su portafolio. Inmobiliaria Urbana Peru. PRESENCIA EN COLOMBIA, PERU MEXICO, colocar dentro de su desarrollo inmobiliario. Textil de Valle  por sostenibilidad en sus plantas industriales y campos 
+",,"Equipo: 2 founders y 4 especialistas de la UNI
+
+José quiere hablar con su angel investor, pedir info
+
+","Pedir info de su angel investor para entrevistarlo, comunciarnos
+
+Alfonso Mujica - Cel. 950 814 080",,(Preguntar cuanto a que valuation),,,"Necesitan financiamiento del development hasta llegar al prototipo final y entrar recién a pilotaje. 
+Ellos proyectan que hacia el Q1 2025 podrían terminar prototipos y pilotajes. Q4 2025 pilotajes comerciales.  
+",Dificultad alta,"Esposos. Alfredo R. Calle: Investigación especializada, Banca Corporativa. Natalia Cárdenas: Banca Corporativa
+Emprendieron juntos en Green Mining  innovación científica basada en un proceso circular para la refinación de metales. 
+Emprendieron BFX Trading fintech que busca desintermediar las transacciones de tipo de cambio entre empresas con una estrategia de tasa de punto medio.
+",Regular,,,,
+Teradomus,"500 pacientes en la waitlist. 5-10% de comisión por la plataforma.
+kinesiologos activos: 15 profesionales (8 meses aprox en promedio tienen en el Saas)
+
+Captable: Felipe y Pablo equitativo y 15% para tech side",,,"cobro: al fisio % comisión por transsacción
+futuro: saas + comisión
+
+envio de link de pago inmediato. expandir a mas profesionales (se volvera un Saas)
+Atienen a domicilio. le da valor al kinesiologo.
+
+Amazon con React front y back phyton. Lanzarán nueva plataforma a mediados de abril y finales de mayo de manera masiva. 
+
+250k independientes para lograr 200millones / hay 1,5M de profesionales independientes","Probar dashboard Saas
+Hablar con 2-3 kinesiologos",,no han levantado,,,,,,,,,,
+Astay,,,,"Feedback JD
+",Nada,,no han levantado,,,,,"Potencial  equipo tech: in house 
+CTO? Sí figura Juan Mansilla como CTO
+Cap Table balanceado: Fernando Sagastegui 50% Juan Mansilla 50%
+Time commitment: No es full time. Tienen otros productos aparte de con el que postularon.
+Complementariedad: Industria en mina  ambos
+Traccion en KPIs:  Solo test demo. 0 Ventas
+Open to advise: Preguntar a Kev office hours
+Participación / Give first? Activo nivel medio Fernando",Bajo,"Hace lo que dicen: Producto aún en versión demo. No es funcional para venta
+# de clientes: 0
+UX: Aún en desarrollo
+Clientes feedback:  No hay
+Recompra : No aplica
+Con quien compite? Con consultoras
+Mejora significativa de lo que existe: Aún no se testea
+Defensibilidad?  Producto en desarrollo a nivel superficial, están testeando su demo. Es early. No tiene foco en solo este producto. ",Bajo,,
+Cirkula,"12-13% MoM
+b2c -CAC 13$ y payback 3 meses y medio
+b2b -CAC 260$ (ticket 200$ x mes - payback 2 meses)
+burn 8k mensuales
+runway 15 meses
+GMV 2023: 300K
+Revenue 2023: 100K
+11 personas en el equipo","equipo tech: 2 programadores (tech lead - rafael bravo-) CTO no tienes.
+stack: react native para mobile y react web para web
+
+levantamos 100k en angel y 250k en pre semilla cap a 2.5 millones (25.6% entre dos rondas)
+
+como van a ser para convertirse en una empresa de 200 millones de dolares? mercado y crecmiento en base a marketplace",,"b2b 25%. (ticket promedio 130$)
+usuarios cobro 20 centavos de dolar b2b
+
+challenge curva para traer corps
+challenge ciclo de venta para corps y prioridad para algunos. 
+
+preocupacion de jd: captable diluido con tan poca plata levantada. Ideal siguiente ronda de 5M a un valuarion de 20M (debes vender o tener rev de 1 millon al año) multiplicar x10 lo de hoy sin dar más equity.",Nada,,(Preguntar cuanto a que valuation),2500000.0,"1k / 14% (comprar 2 angeles 4.5%)
+sin el ESOP (alocar gran parte rafael tech lead - 10%)",,,"Potencial  equipo tech: 2 lead tech part time
+CTO? No
+Cap Table: Diluido. Michelle Gomberoff  - CEO 38.2% / Jimmy Baudts - CSO  38.2%, en ronda angel 14.6% y en ronda pre-seed 9% 
+Time commitment: Michelle full time + Preguntar a Kev
+Complementariedad: evaluar con Kev
+Top Advisors: preguntar a Kev
+Traccion en KPIs: 60 nuevos clientes 25 (marzo) y 35 en abril durante el DD
+Open to advise: sí
+Open to pivot? Sí, nuevo foco en industria de cadenas de comida
+Participación / Give first? Activa por parte de Michelle",Bueno,,,,
+Parenteen,"
+6 personas en el equipo incluidas las founders","Están trabajando con escuelas, a través de charlas, así trabajaron el año pasado. Ahora quieren darles esta plataforma como beneficio.    La plataforma está hecha en larabel
+Quieren explorar que los colegios paguen la plataforma para los padres. El colegio paga para habilitar los talleres virtuales y ahí convierten a los papás a Parenteen.
+Cuánto es el periodo que tienen como pagantes? Ahora lo hacen por membressias de 3, 6 y 12 meses. La más pagada es de 6 meses.
+Ellas quieren ayuda en product market fit. Quieren buscar añadirse a plataformas como adfly, 
+Cuánto están quemando hoy? Al mes, gastan alrededor de 15,000 soles. Hay equipo tech? Aún no, están buscando. Están trabajando con el desarrolló el tech en Juntas. Buscan alguien que tenga base en datos.  Cómo van a llegar a ser una compañía de $200 M? Por producto, es un mercado super nicho con un potencial en Perú: 352,000 familias y en LatAm 33,6M . Para llegar al P.E necesitan 1000 padres con suscripción de 6 meses. Pero si reinvierten, eso cambia                    La plataforma está construida en laravel.",,"b2b a colegios. B2C con padres de familia
+115 usuarios activos en la plataforma
+90 se inscribieron por un evento con una empresa
+Los demás vienen por newsletter.
+
+Captable Majo 50% y Gabriela 50%",Cómo mantenerlos para que haya frecuencia en el contenido que puedan darles? Crear otros productos que necesiten los padres y que pueden venderlo en la comunidad que creen,,250k,2500000.0,"han levantado antes 100k angel
+tienen ESOP 10% (DENTRO DEL 74 cap table que tienen)
+su ronda es SAFE",,,,,,,,
+Carlo,"subasta modelo fee: 350$ al dealer por cada auto subastado y 150$ a la persona por el servicio.
+e-buyer modelo: 3k$
+
+captable: 50/50 heydi y Jesus. CTO: Javier es prueba 5 meses + post-vesting del periodo de prueba.","mes y medio rotan autos con el e-buyer.
+tipos de autos: carros primer auto, city caras, SUVs. (japon, alemana, coreana)
+garantia: 3 meses mecanica (acuerdos con santander para financiamiento a través de ellos)
+Subasta: dealers y personas naturales
+porque las dos y no hacer solo una de las dos? se complementan, 
+como van a hacer para ser una compañía de 200 millones de dolares?",,BMC: Subasta de carros sinestrado,,,no han levantado,,,,,,,,,,
+Sommos,"Objetivo: White Laber de integración a banca.
+
+Founders: yara (ops), diego (ceo), jhonny (tech) -3 fulltime-
+
+captable: 
+2 rondas con SAFE - 75% founders y 25% angeles asumiendo las dos diluciones: 30% de dilución. 
+
+Tendríamos 50% post SAFE
+
+Techstars: 20k x 6% y 100k a cap de 3M
+Krealo: 100k por un cap 2.5M
+
+Van a tener advisory board.","¿como serán una empresa de 200 millones? 1- estandarizar el producto (nuestro mayor costo es integración) y expansión a colombia y mexico. 
+¿Pensando en tu modelo actual como geenrar 200 millones de valoración? 
+250 bancos - 150 millones de dolares (con numeros actuales de pricing -aún seguimos experimentando de pricing)",,"Operaciones en Perú  y Bolivia / Futuro: Colombia o Mexico
+Producto Juntas y Commercial:
+B2B - MiBanco, Bancosol
+Producto Ahorro individual programado: (Whitelabel para bancos - UNACEM)
+B2B- BCP hipotecarios - UNACEM y Menorca (posibles)
+% de monto transaccional de los aplicativos.
+40% DE LAS VENTAS EN AHORROS INDIVIDUALES DE BANCOS SE LES CAE.
+Con BCP: Reminders para hacer que paguen, potenciales extensioones. 
+Tech stack (unacem + menorca): tech web basado en nube (google cloud), angular -java- aioni (front)
+firebase, notjs (back)
+
+IT Team: 8 personas -2 calidad, 2 diseño, 3 desarroladores sr y 2 juniors-",,,(Preguntar cuanto a que valuation),,,,,"Potencial  equipo tech: 2 lead tech part time
+CTO? No
+Cap Table: Diluido. Michelle Gomberoff  - CEO 38.2% / Jimmy Baudts - CSO  38.2%, en ronda angel 14.6% y en ronda pre-seed 9% 
+Time commitment: Michelle full time + Preguntar a Kev
+Complementariedad: evaluar con Kev
+Top Advisors: 
+Traccion en KPIs: 60 nuevos clientes 25 (marzo) y 35 en abril durante el DD
+Open to advise: sí
+Open to pivot? Sí, nuevo foco en industria de cadenas de comida
+Participación / Give first? Activa por parte de Michelle",Bueno,,,,
+Ancana Restaurantes,"1 año 10 meses, 5 marcas", +280 K en ventas,,"recomendacion jd:
+mercado competitivo, ver mas perfil de cliente y orden de consumo",,,no han levantado,,,,,"Potencial  equipo tech: 2 lead tech part time
+CTO? No
+Cap Table: Diluido. Michelle Gomberoff  - CEO 38.2% / Jimmy Baudts - CSO  38.2%, en ronda angel 14.6% y en ronda pre-seed 9% 
+Time commitment: Michelle full time + Preguntar a Kev
+Complementariedad: evaluar con Kev
+Top Advisors: 
+Traccion en KPIs: 60 nuevos clientes 25 (marzo) y 35 en abril durante el DD
+Open to advise: sí
+Open to pivot? Sí, nuevo foco en industria de cadenas de comida
+Participación / Give first? Activa por parte de Michelle",Compromiso Regular,"Servicio bueno, llegó en 30 min después de hacer el pago. Algo curioso es que al entrar a la web hice mi pedido y para concretar me mandó al wpp y tuve que volver a decir mi pedido. Pedimos la marca Pipzza, fue bueno. Algunos preguntaron de dónde era y pidieron el contacto(Arturo)",Bueno,,
+Vuá,"3 productos: Shampoo, Acondicionador, Crema de Peinar
+
+Tasa de recompra: 38-40%
+5 meses: 38% MoM Growth
+febrero 2024: 86mil soles
+marzo 2024: 100 mil
+
+stefano 25% -65% co-founder
+margen bruto: 73%
+margen neto: 25%
+EBITDA: 40%
+cashflow positive","¿como es el proceso de produccción? los quimicos hacen una formula base, despues el usuario entra al formulario y cada pregunta es un aditivo y con eso sale su formula del producto.  Actualmente, el proceso es todo es manual. 
+
+Proveedores que compramos no tienen sales ni nada.
+costo: shampoo + acondicionador - 49.90 soles / amaraz - 29.90 / shampoo de peluqueria - 129 soles / mainstream - 20-35 soles (unidad)
+Aun no tienen suscripción. 
+
+como llegamos a 200 millones de dolares anuales? aumento de linea de producto (corporeo + higiene) y entrar a Sao Paulo
+como consiguen clientes? publicidad + organico (publi en redes y web)
+con cual convierten mejor? web - 70% y costo de conversión - 25-35% y nuestro LTV 120 soles en promedio
+con quien haces logistica? aliados con una drogueria (couriers propios)
+",,"liquid 10% de acciones: antes lo vían con Mauricio ahora lo ven con Gustavo Canales. Se juntan cada dos semanss los viernes. 
+
+variedades de formula: 1000+ aprox
+
+inversión: 200k x 15%",,,(Preguntar cuanto a que valuation),,,,,,,,,,
+Speakeasy,,,,,,,(Preguntar cuanto a que valuation),,,"Aún está en validación, no hay bases tech que permitan dar ese paso.",Dificultad alta,"Solo Massimo estuvo presente durante el programa, su cofounder no figuró en la firma de compromiso. Pivot
+No se presentó al comité de evaluación
+Emprendió antes, tiene capacidad de ejecución y adaptación al cambio",Bajo,"Inició teniendo tracción, se dio cuenta que el ticket era muy bajo; por eso está explorando una solución que permita a los negocios medianos analizar y resumir información de los clientes evitando la pérdida de tiempo en trabajos manuales para sus colaboradores e",Pivot,,
+Cobox,"
+
+10 operadores logísticos activos -solo pequeños y medianos, salvo Jango- (hay 50 en total)
+Objetivo: Pasar de 100 a 1000 pedidos diarios 
+fee por transacción del 15%-25% que se le cobra al operador
+
+
+,Max 50% - Jaime 50% co-founder
+margen bruto: %
+margen neto: %
+EBITDA: 
+cashflow ","¿como es el proceso de produccción? los operadores más pequeños  y medianos pagan por web y los operadores grandes(Falabella, farmacias peruanas) contratan servicios en periodos cortos específicos como cyber 
+
+Cómo se conecta el operador logístico a Cobox? Llenan un formulario con información de la empresa y la capacidad de movilidad(# vehículos, tipo vehículos, etc)
+Cuál es el tech stack: código desarrollado inhouse jasson, djl, google cloud, google workspace. El equipo tech es 2 programadores: 1 nackend y otro frontend. 
+Cómo se conocieron? Se conocieron antes de pandemian, en su anterior trabajo. Jaime jaló a Max para primero hace bee peru que luego se llamó Bee logistics. 
+
+Hacia dónde va cobos? A transformar la logística de última milla, este año quieren estar en 4 ciudades más del país. 
+Cuál es el exit que ven? Grandes operadores logísticos, sin flota. 
+Cómo se está empezando a financiar ese desarrollo de producto? Adopción directa, financiamiento privado dedicado a expansión comercial
+Por qué tienen ustedes son el mejor equipo para crear esta empresa y tener el exit?  Experiencia y las conexiones. Pivoteos acorde a lo que están buscando.",,"La monetización es el reto poque hay mucha oferta, tneer claro el potencial de monetización. Deben trabajar más en el producto y que este sea superior. ",,,no han levantado,,,,,,,,,,
+Fran AI,"302 clientes (5$) -10% de conversión
+retención 80% | 2 meses
+4500 usuarios
+
+meta: 100k dolares al año   ","¿por qué no convierten? usuario quiere experimentar primero
+equipo: 2 personas full time y 1 part time (1 mkt + 4 advisors que son psicologos) 
+
+tech stack: wsp api + encryptamos extremo a extremo. Damos LLMs adaptables cortados en pedacitos.",,,,,no han levantado,,,,,,,,,,
+Hot Capital,"65K Portafolio average investment $5500     Retorno anual 15%
+retorno anual 15% | 
+17 clientes 
+Ronda de 200K a un valuation por definir, para bases legales, growth a cargo de Bruno, Inversiones con personas junior de Matemática para desarrollar un modelo más potente 
+A partir del 6%, empiezan a cobrar el 20% de las ganancias. Fee de retiro del 5% si retira antes de los 2 años. ","Hoy el producto es un back office sencillo. Están trabajando la página web que saldrá estas semanas. Aún no es automatizado  
+Onboarding donde explican qué se debe hacer, No quieren saber exactamente cómo funciona, solo la rentabilidad. Han adquirido boca a boca y friends and family.
+Tienen algoritmo que evalúa el portafolio de criptos. Manejan como fondo estructurado. El fondo constantemente se estructura en base a lo que dice el algoritmo. Operativamente son un fondo, pero no regulatoriamente. Actualmente solo es un contrato de inversión con Hot Capital SAC.  
+Reciben a través USTO y depósitos bancarias. Usan Binance para transferir.     
+
+Cuál es el exit https://docs.google.com/spreadsheets/d/1rEI1rdbvr1ptVcoRr7T7xeyJkZtOBKV5KXTq_jwM9uc/edit#gid=1125629850&range=K2   Cómo llegan a 20,000 clientes? Según ellos, el mercado cripto está creciendo y eventos. Qué valoran estos clientes? Ellos pueden venir de dos lados: gente que le interesa, pero no invierte aún o desconoce; otro perfil es que han perdido dinero pero creen en el activo aún.  
+Cómo le generas a añguien confianza de que ustedes le asesoren para comprar criptos? Hacen buen due diligence. buen approach. Baja la complejidad a  un nivel bien comprensible. No vender humo y hacer un producto con base legal. Conversión directa y sincera. ¿Qué retorno debe esperar un inversionista ? 15% -20% . ",Competidor; MAKARA https://makaracapital.com/,Es startup? O una firma de inversión que asesora? Revisarlo  Pueden ir por el camino de sociedad de inversiones,,,no han levantado,,,,,,,,,,

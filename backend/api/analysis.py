@@ -4,56 +4,69 @@ from fastapi import APIRouter, UploadFile, File, HTTPException, Depends, Header,
 from typing import Optional, Dict
 from fastapi.responses import StreamingResponse
 
-# Importamos TODAS las funciones de scoring que necesitamos
-from services.scoring import run_scoring_loop, run_scoring_loop_stream, run_single_scoring
-from dependencies import get_portfolio_context, get_thesis_context
+# Importamos las funciones de scoring que necesitan los dos contextos
+from services.scoring import run_scoring_loop_stream, run_single_scoring
+
+# ¡CAMBIO CLAVE! Importamos las NUEVAS dependencias de contexto por separado
+from dependencies import get_qualitative_context, get_quantitative_context, get_thesis_context
 
 router = APIRouter()
 
 @router.post("/api/analyze")
 async def analyze_deals(
     new_deals_file: UploadFile = File(...),
-    df_portfolio_context: pd.DataFrame = Depends(get_portfolio_context),
-    thesis_context_text: str = Depends(get_thesis_context),
-    accept: Optional[str] = Header(None) # Header para detectar si se pide un stream
+    # ¡CAMBIO CLAVE! Usamos Depends para obtener cada contexto por separado
+    df_qual_context: pd.DataFrame = Depends(get_qualitative_context),
+    df_quant_context: pd.DataFrame = Depends(get_quantitative_context),
+    thesis_context: str = Depends(get_thesis_context),
+    # El header 'Accept' nos permite decidir si devolver un stream o no
+    accept: Optional[str] = Header(None)
 ):
     """
-    Endpoint inteligente:
-    - Si el header 'Accept' es 'text/event-stream', devuelve un stream.
-    - De lo contrario, devuelve un JSON completo al final.
+    Endpoint inteligente para analizar un archivo de startups.
+    - Si el cliente solicita 'text/event-stream', devuelve los resultados uno por uno.
+    - De lo contrario (no implementado actualmente), devolvería un JSON completo.
     """
     print(f"\n--- RECIBIDA PETICIÓN DE ANÁLISIS PARA '{new_deals_file.filename}' ---")
     
     try:
         content = await new_deals_file.read()
         df_to_score = pd.read_csv(io.BytesIO(content))
-    except Exception:
-        raise HTTPException(status_code=400, detail="Error al leer el archivo CSV.")
+    except Exception as e:
+        raise HTTPException(status_code=400, detail=f"Error al leer el archivo CSV: {e}")
 
+    # El frontend siempre pide un stream, así que esta es la ruta principal.
     if accept == "text/event-stream":
         print("--- INICIANDO ANÁLISIS EN MODO STREAMING ---")
         return StreamingResponse(
-            run_scoring_loop_stream(df_to_score, df_portfolio_context, thesis_context_text),
+            run_scoring_loop_stream(df_to_score, df_qual_context, df_quant_context, thesis_context),
             media_type="text/event-stream"
         )
     else:
-        print("--- INICIANDO ANÁLISIS EN MODO BATCH (JSON) ---")
-        results = await run_scoring_loop(df_to_score, df_portfolio_context, thesis_context_text)
-        print(f"--- ANÁLISIS BATCH FINALIZADO ---")
-        return results
+        # Esta parte no se está usando actualmente, pero la dejamos por si se necesita en el futuro.
+        raise HTTPException(status_code=400, detail="Este endpoint solo soporta análisis en modo streaming. Asegúrate de incluir el header 'Accept: text/event-stream'.")
 
 @router.post("/api/rerun-analysis")
 async def rerun_single_analysis(
     startup_data: Dict = Body(...),
-    df_portfolio_context: pd.DataFrame = Depends(get_portfolio_context),
-    thesis_context_text: str = Depends(get_thesis_context)
+    # ¡CAMBIO CLAVE! También obtenemos los dos contextos para el re-análisis
+    df_qual_context: pd.DataFrame = Depends(get_qualitative_context),
+    df_quant_context: pd.DataFrame = Depends(get_quantitative_context),
+    thesis_context: str = Depends(get_thesis_context)
 ):
+    """
+    Endpoint para re-analizar una única startup.
+    Recibe los datos de la startup en formato JSON.
+    """
     if not startup_data:
         raise HTTPException(status_code=400, detail="No se proporcionaron datos de la startup.")
     
+    # ¡CAMBIO CLAVE! Pasamos los dos contextos a la función de re-análisis
     updated_startup = await run_single_scoring(
         startup_dict=startup_data,
-        df_context=df_portfolio_context,
-        thesis_context=thesis_context_text
+        df_qual_context=df_qual_context,
+        df_quant_context=df_quant_context,
+        thesis_context=thesis_context
     )
+    
     return updated_startup

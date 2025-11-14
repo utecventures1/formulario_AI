@@ -9,7 +9,7 @@
     /* Estilos (sin cambios) */
     :root {
       --bg-color: #f8fafc; --text-color: #1e293b; --primary-color: #2563eb;
-      --secondary-text: #64748b; --card-bg: #ffffff; --border-color: #e2e8f0;
+      --secondary-text: #f50a0a; --card-bg: #ffffff; --border-color: #e2e8f0;
       --success-color: #16a34a; --warning-color: #f59e0b; --radius: 12px;
       --shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
     }
@@ -390,6 +390,7 @@
           <th class="sortable-header" data-sort-key="nombre">Nombre</th>
           <th class="sortable-header" data-sort-key="industria">Industria</th>
           <th class="sortable-header" data-sort-key="equipo">Equipo</th>
+          <th class="sortable-header" data-sort-key="producto">Producto</th>
           <th class="sortable-header" data-sort-key="tesis_utec">Tesis UTEC</th>
           <th class="sortable-header" data-sort-key="oportunidad">Oportunidad</th>
           <th class="sortable-header" data-sort-key="validacion">Validación</th>
@@ -435,7 +436,7 @@
     <div class="backdrop"></div>
     <div class="modal-card" role="document">
       <h3>Continuar análisis existente</h3>
-      <p>Se encontraron resultados guardados en este navegador. ¿Quieres continuar con este análisis o empezar de nuevo?</p>
+      <p style="color:#334155">Se encontraron resultados guardados en este navegador. ¿Quieres continuar con este análisis o empezar de nuevo?</p>
       <div class="modal-actions">
         <button class="btn btn-secondary btn-no">No, volver</button>
         <button class="btn btn-primary btn-continue">Continuar</button>
@@ -596,18 +597,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 <tr>
                     <td>${startup['Nombre de la startup'] || 'N/A'}</td>
                     <td>${startup['¿A qué industria(s) pertenece tu startup?'] || 'N/A'}</td>
-                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="equipo">${scores.equipo || '-'}</div></td>
-                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="tesis_utec">${scores.tesis_utec || '-'}</div></td>
-                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="oportunidad">${scores.oportunidad || '-'}</div></td>
-                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="validacion">${scores.validacion || '-'}</div></td>
+                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="equipo">${scores.equipo ?? '-'}</div></td>
+                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="producto">${scores.producto ?? '-'}</div></td> <!-- AÑADIDA -->
+                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="tesis_utec">${scores.tesis_utec ?? '-'}</div></td>
+                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="oportunidad">${scores.oportunidad ?? '-'}</div></td>
+                    <td><div class="score-box editable-score" contenteditable="true" data-index="${originalIndex}" data-score-key="validacion">${scores.validacion ?? '-'}</div></td>
                     <td><div class="score-box final-score">${(startup.final_weighted_score || 0).toFixed(2)}</div></td>
-                    
-                    <!-- ▼▼▼ ESTA ES LA SECCIÓN NUEVA/MODIFICADA ▼▼▼ -->
                     <td class="actions-cell">
                         <a class="action-link" data-index="${originalIndex}">Ver más</a>
                         <button class="rerun-btn" title="Re-analizar con IA" data-index="${originalIndex}">🔄</button>
                     </td>
-                    <!-- ▲▲▲ ▲▲▲ ▲▲▲ -->
                 </tr>
             `;
             tableBody.innerHTML += rowHTML;
@@ -711,7 +710,7 @@ document.addEventListener('DOMContentLoaded', () => {
           // Actualiza la celda del puntaje final en la misma fila
           const row = target.closest('tr');
           if (row) {
-            const finalCell = row.querySelector('td:nth-child(7) .score-box');
+            const finalCell = row.querySelector('td:nth-child(8) .score-box');
             if (finalCell) finalCell.textContent = (startupData[index].final_weighted_score || 0).toFixed(2);
           }
 
