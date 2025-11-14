@@ -18,5 +18,5 @@ frontend/npm-debug.log*
 frontend/yarn-debug.log*
 frontend/yarn-error.log*
 backend/.env
-backend/scored_historical_data.xlsx
-backend/scored_historical_data-copia.xlsx
+
+.env
