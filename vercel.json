@@ -3,8 +3,7 @@
   "builds": [
     {
       "src": "backend/main.py",
-      "use": "@vercel/python",
-      "config": { "includeFiles": ["backend/**"] }
+      "use": "@vercel/python"
     },
     {
       "src": "frontend/**",
@@ -18,7 +17,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "frontend/$1"
+      "dest": "/frontend/$1"
     }
   ]
 }
