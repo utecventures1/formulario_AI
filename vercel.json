@@ -2,18 +2,21 @@
   "version": 2,
   "builds": [
     {
-      "src": "backend/main.py",
-      "use": "@vercel/python"
+      "src": "backend/**/*",
+      "use": "@vercel/python",
+      "config": {
+        "maxLambdaSize": "100mb"
+      }
     }
   ],
-  "rewrites": [
+  "routes": [
     {
-      "source": "/api/(.*)",
-      "destination": "backend/main.py"
+      "src": "/api/(.*)",
+      "dest": "/backend/main.py"
     },
     {
-      "source": "/(.*)",
-      "destination": "backend/main.py"
+      "src": "/(.*)",
+      "dest": "/backend/main.py"
     }
   ]
 }
