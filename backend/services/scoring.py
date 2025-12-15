@@ -40,7 +40,7 @@ def get_llm_dimensional_scoring(
     }
 
     try:
-        model = genai.GenerativeModel('gemini-2.0-flash-lite')
+        model = genai.GenerativeModel('gemma-3-27b')
         status_hierarchy_prompt = "\n".join(f'- {s} (Nivel {d["score"]}/10): {d["description"]}' for s, d in STATUS_HIERARCHY.items())
         
         prompt = f"""
